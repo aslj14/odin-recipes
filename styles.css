@@ -1,19 +1,16 @@
 /* css styles */
 
-/* Styles for body */
 body {
     background-color: rgb(63, 227, 248);
     font-family: "Papyrus", "Copperplate", fantasy;
     text-align: center;
 }
 
-/* Heading font style */
 h1 {
     font-size: 50px;
     font-weight: bold;
 }
 
-/* Padding to unordered list */
 ul {
     padding: 0;
     font-size: 24px;
