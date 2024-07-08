@@ -1,0 +1,17 @@
+/* css styles */
+
+body {
+    background-color: rgb(63, 227, 248);
+    font-family: "Papyrus", "Copperplate", fantasy;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+ul {
+    padding: 0;
+    font-size: 24px;
+}
